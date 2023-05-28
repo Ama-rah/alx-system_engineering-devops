@@ -1,4 +1,4 @@
-EXPLAINED
+Explanation
 
 A user wants to access a website hosted on a one server web infrastructure(this is becoming a hard word to spell or maybe it's just my brain) via www.foobar.com
 
